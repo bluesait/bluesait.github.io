@@ -1,33 +1,33 @@
 ---
-layout: archive
 permalink: /about/
-title: "About Leo"
+title: "Jaehyun Kwon"
 author_profile: true
 ---
 
 ## Skills	 
-Digital Imaging Specialist / TRIZ Pro (3rd Level)
-Successfully performed projects and developed technologies for high quality imaging - high dynamic range imaging method, multi-energy X-ray imaging system, image engine for digital radiography. Recently, developing a medical imaging technology for ultrasound.
+Digital Imaging Specialist / TRIZ Pro (3rd Level)  
+Successfully performed projects and developed technologies for high quality imaging - high dynamic range imaging method, multi-energy X-ray imaging system, image engine for digital radiography. Recently, developing a medical imaging technology for ultrasound.  
 I'm a creative engineer. With the various experiences, now I'm ready to create innovative technologies and products.
 
 ## Experience	 
-**Health & Medical Equipment (HME)** / Senior Engineer
-> Mar. 2014 - PRESENT, Samsung Digital City & Samsung Medison
+**Health & Medical Equipment (HME)** / Principal Engineer
+> Mar. 2014 - PRESENT, Samsung Digital City & Samsung Medison  
 * Medical Imaging
     - Digital radiography - ’Image Engine V3’: Architecture design, tone reproduction
     - Ultrasound imaging - Image processing chain (B-mode), ‘HQ Vision’: Deconvolution for high-end ultrasound systems
     - Image quality optimization, domain adaptation using deep learning
 **TRIZ Pro** 
 > Mar. 2016 - Dec. 2016, Samsung Value Innovation Program (VIP) Center
+
 * TRIZ includes a practical methodology for generating innovative solutions for problem solving, 3rd Level certification
 * Experiences in lecturing and consulting projects of various technology fields for ideation and design
 **Samsung Regional Specialist** - Germany
-> Mar. 2012 - Feb. 2013, Samsung Educational Research Center
+> Mar. 2012 - Feb. 2013, Samsung Educational Research Center  
 * Deep understanding about European culture and communication
 * Medical technology research - conference, institute, university, and company
 * Hidden champions in Germany, speak German (B23)
 **Samsung Advanced Institute of Technology (SAIT)** / Research Staff
-> Jan. 2005 - Mar. 2014, SAIT
+> Jan. 2005 - Mar. 2014, SAIT  
 * Digital Image Processing
     - Digital camera image processing, ISP Algorithm, CFA design
     - Multi-spectral imaging, RGB & IR fusion, noise reduction
@@ -37,13 +37,14 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
 
 ## Education	 
 **Kyungbook National University Graduate School** / M.S.
-> Mar. 2003 - Feb. 2005, South Korea
+> Mar. 2003 - Feb. 2005, South Korea  
 * Electronics
 * Color & Imaging Laboratory, Prof. Young-Ho Ha
     - Digital image processing (DIP), color management system (CMS), digital halftoning
     - Color science and human vision
+
 **Kyungbook National University** / B.S.
-> Mar. 1996 - Aug. 2002, South Korea
+> Mar. 1996 - Aug. 2002, South Korea  
 * Electronic and Electrical Engineering
   
 ## Patent	 
