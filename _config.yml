@@ -12,15 +12,15 @@
 
 theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin  : "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko" # "en-US"
 title                    : "Leo's World"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Learning Deep Learning" # site tagline that appears below site title in masthead
 name                     : "Jaehyun Kwon"
-description              : "Leo's Personal Blog"
+description              : "A Personal Blog"
 url                      : "https://bluesait.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "bluesait/bluesait.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -30,9 +30,9 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : dev-hundred-blog # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -109,11 +109,11 @@ analytics:
 author:
   name             : "Jaehyun Kwon"
   avatar           : "/assets/images/leo-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Digital Imaging Specialist"
+  bio              : "Digital Imaging Specialist Powerd by Deep Learning"
   location         : "Seoul, Korea"
   email            : # jaehyun77@gmail.com
   links:
-    - label: "Email"
+    - label: "E-mail"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:jaehyun77@gemail.com
     - label: "Website"
@@ -280,6 +280,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: false # true
-      comments: # true
+      comments: true # true
       share: false # true
       related: true
