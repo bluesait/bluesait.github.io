@@ -111,11 +111,11 @@ author:
   avatar           : "/assets/images/leo-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Digital Imaging Specialist"
   location         : "Seoul, Korea"
-  email            : jaehyun77@gmail.com
+  email            : # jaehyun77@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:jaehyun77@gemail.com
+      url: mailto:jaehyun77@gemail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
