@@ -1,54 +1,82 @@
 ---
+layout: archive
 permalink: /about/
 title: "Jaehyun Kwon"
 author_profile: true
 ---
 
 ## Skills	 
-Digital Imaging Specialist / TRIZ Pro (3rd Level)  
-Successfully performed projects and developed technologies for high quality imaging - high dynamic range imaging method, multi-energy X-ray imaging system, image engine for digital radiography. Recently, developing a medical imaging technology for ultrasound.  
+
+Digital Imaging Specialist / TRIZ Pro (3rd Level)    
+Successfully performed projects and developed technologies for high quality imaging - high dynamic range imaging method, multi-energy X-ray imaging system, image engine for digital radiography. Recently, developing a medical imaging technology for ultrasound.    
 I'm a creative engineer. With the various experiences, now I'm ready to create innovative technologies and products.
 
 ## Experience	 
-**Health & Medical Equipment (HME)** / Principal Engineer
-> Mar. 2014 - PRESENT, Samsung Digital City & Samsung Medison  
-* Medical Imaging
-    - Digital radiography - ’Image Engine V3’: Architecture design, tone reproduction
-    - Ultrasound imaging - Image processing chain (B-mode), ‘HQ Vision’: Deconvolution for high-end ultrasound systems
-    - Image quality optimization, domain adaptation using deep learning
-**TRIZ Pro** 
-> Mar. 2016 - Dec. 2016, Samsung Value Innovation Program (VIP) Center
 
-* TRIZ includes a practical methodology for generating innovative solutions for problem solving, 3rd Level certification
+**C-Lab - NEO Project** / Principal Engineer    
+> April. 2019 - PRESENT, Creativity & Innovation Center / Samsung Research (SR)        
+
+* NEO Project - Fake image detector
+ - Fake image detector    
+    : Image & video forgery detection algorithm, face forensics
+ - Deep learning based face swapping    
+    : Deepfake, FaceSwap, Face2Face
+
+**Health & Medical Equipment (HME)** / Principal Engineer
+> Mar. 2014 - Mar. 2019, Samsung Digital City & Samsung Medison  
+
+* Medical Imaging & Deep Learning
+ - Digital radiography ’Image Engine V3’    
+    : Architecture design, tone reproduction
+ - Ultrasound imaging chain (B-mode), ‘HQ-Vision’, ‘ShadowHDR’    
+    : Deconvolution for high-end ultrasound systems, shadow suppression
+  - Image quality optimization, domain adaptation using deep learning  
+
+**TRIZ Pro** 
+> Mar. 2016 - Dec. 2016, Samsung Value Innovation Program (VIP) Center    
+
+* TRIZ includes a practical methodology for generating innovative solutions for problem solving, TRIZ 3rd level certification
 * Experiences in lecturing and consulting projects of various technology fields for ideation and design
+
 **Samsung Regional Specialist** - Germany
-> Mar. 2012 - Feb. 2013, Samsung Educational Research Center  
+> Mar. 2012 - Feb. 2013, Samsung Educational Research Center    
+
 * Deep understanding about European culture and communication
 * Medical technology research - conference, institute, university, and company
 * Hidden champions in Germany, speak German (B23)
+* Samsung Global Forum member
+
 **Samsung Advanced Institute of Technology (SAIT)** / Research Staff
-> Jan. 2005 - Mar. 2014, SAIT  
+> Jan. 2005 - Mar. 2014, SAIT    
+
 * Digital Image Processing
     - Digital camera image processing, ISP Algorithm, CFA design
     - Multi-spectral imaging, RGB & IR fusion, noise reduction
     - High dynamic range (HDR) imaging: Capturing & blending
+
 * Medical Imaging
     - Multi-energy X-ray (MEX) imaging system for mammography
 
 ## Education	 
+
 **Kyungbook National University Graduate School** / M.S.
-> Mar. 2003 - Feb. 2005, South Korea  
-* Electronics
+> Mar. 2003 - Feb. 2005, South Korea    
+
+*Electronics*  
+
 * Color & Imaging Laboratory, Prof. Young-Ho Ha
     - Digital image processing (DIP), color management system (CMS), digital halftoning
     - Color science and human vision
 
 **Kyungbook National University** / B.S.
-> Mar. 1996 - Aug. 2002, South Korea  
-* Electronic and Electrical Engineering
+> Mar. 1996 - Aug. 2002, South Korea    
+
+*Electronic and Electrical Engineering*
   
 ## Patent	 
+
 **US Grant**
+
 * US-9895123-B2	Apparatus for generating X-ray image and method thereof 
 * US-9839405-B2	X-ray imaging apparatus and control method thereof 
 * US-9724062-B2	X-ray imaging apparatus and control method for the same 
@@ -83,18 +111,21 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
 * US-7864233-B2	Image photographing device and method 
 
 **Europe Grant**
+
 * EP-2187621-B1	Apparatus and method for processing image 
 * EP-1998559-B1	Vorrichtung und Verfahren zum Fotografieren von Bildern 
 * EP-1860887-B1	Image capturing device and method 
 
 **Japan Grant**
-* JP-5595646-B2 	映像整合方法および装置
+
+* JP-5595646-B2 映像整合方法および装置
 * JP-5260147-B2	Image pickup device and method
 * JP-5159208-B2	Image correction method and device
 * JP-4603011-B2	イメージ撮像装置及びその動作方法
 * JP-4594354-B2	色変換システム、記録媒体および方法
 
 **Korea Grant**
+
 * KR-101820844-B1 진단영상 생성장치, 의료영상시스템 및 이미지를 처리하는 방법
 * KR-101689867-B1 영상을 처리하는 방법, 이를 수행하는 영상처리장치 및 의료영상시스템
 * KR-101689866-B1 영상 처리 방법 및 장치와 이를 채용한 의료영상시스템
@@ -122,6 +153,7 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
 * KR-100755680-B1 색 변환 장치 및 방법
 
 **US Application**
+
 * US-20180205038-A1 Electronic device having stacking structure comprising two dimensional materials
 * US-20180138231-A1 Optical sensor
 * US-20180013963-A1 Apparatus and method for combining images
@@ -130,18 +162,22 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
 * US-20140193097-A1 Method and apparatus for blending images
 
 **Europe Application**	
+
 * EP-2858000-A1 Display apparatus and image display method using the same
 * EP-3057017-A1 Anzeigevorrichtung und anzeigeverfahren damit
 * EP-3217305-A1 Appareil d'affichage et procédé d'affichage d'image utilisant celui-ci
 
 **Japan Application**
+
 * JP-2015076882-A ディスプレイ装置及びそれを用いた映像表示方法
 * JP-2014099921-A 映像整合方法および装置
 
 **China Application**
+
 * CN-104516627-A 显示设备和使用所述显示设备的图像显示方法
 
 **Korea Application**
+
 * KR-20180085609-A 이차원 물질층을 포함하는 적층 구조체를 지닌 전자 소자
 * KR-20180054359-A 광센서
 * KR-20150137467-A 엑스선 영상 장치 및 그 제어 방법
@@ -153,7 +189,9 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
 * KR-20090120159-A 영상합성장치 및 영상합성방법
 
 ## Paper	 
+
 **International**
+
 * Kwon, Jae-Hyun, Park, Tae-Yong, Cho, Yang-Ho, Lee, Cheol-Hee, and Ha, Yeong-Ho, "Photo-text segmentation in complex color document." The 5th Japan-Korean Joint Symposium on Imaging Materials and Technologies, p. 44-47, 2004.
 * Kwon, Jae-Hyun, Park, Tae-Yong, Kim, Yun-Tae, Cho, Yang-Ho, and Ha, Yeong-Ho, "Efficient text segmentation and adaptive color error diffusion for text enhancement." Color Imaging X: Processing, Hardcopy, and Applications, Vol. 5667, International Society for Optics and Photonics, 2005.
 * Kwon, Jae-Hyun, Park, Tae-Yong, Son, Chang-Hwan, and Ha, Yeong-Ho, "Text enhancement error diffusion with homogeneous halftone patterns in complex document." ITC-CSCC: International Technical Conference on Circuits Systems, Computers and Communications, 2005.
@@ -167,6 +205,7 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
 * Kwon, Jae-Hyun, Oh, Hyun-Hwa, Kim, Sung-Su, Sung, Young-Hun, and Lee, Seong-Deok, “Mammogram enhancement using multi-energy x-ray.” Medical Imaging 2012: Physics of Medical Imaging, Proceedings Vol. 8313, Society of Photo-Optical Instrumentation Engineers (SPIE), 2012.
 
 **Domestic**
+
 * Kwon, Jae-Hyun, Son, Chang-Hwan, Park, Tae-Yong, Cho, Yang-Ho, and Ha, Yeong-Ho, "문자 영역을 강조하기 위한 적응적 오차 확산법(Adaptive error diffusion for text enhancement).” 2006년 1월 전자공학회 논문지 제43권 SP편 제1호.
 * Choe, Won-Hee, Lee, Kang-Eui, Kwon, Jae-Hyun, and Lee, Seong-Deok, "카메라에서의 광조도 대역 영상 구현(High dynamic range imaging on digital still camera).” 2010년 대한전자공학회 하계학술대회 제33권 1호. 
   
