@@ -3,6 +3,7 @@ layout: archive
 permalink: /about/
 title: "Jaehyun Kwon"
 author_profile : true
+last_modified_at: 2019-10-03T12:00:00+09:00
 ---
 
 ## Skills
