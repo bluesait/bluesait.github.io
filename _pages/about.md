@@ -1,4 +1,5 @@
 ---
+layout: about
 permalink: /about/
 title: "Jaehyun Kwon"
 last_modified_at: 2019-10-02T15:46:43-04:00
@@ -11,6 +12,7 @@ Digital Imaging Specialist / TRIZ Pro (3rd Level)
 Successfully performed projects and developed technologies for high quality imaging - high dynamic range imaging method, multi-energy X-ray imaging system, image engine for digital radiography. Recently, developing a medical imaging technology for ultrasound.    
 I'm a creative engineer. With the various experiences, now I'm ready to create innovative technologies and products.
 
+---
 ## Experience
 
 **C-Lab - NEO Project** / Principal Engineer    
@@ -57,6 +59,7 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
 * Medical Imaging
     - Multi-energy X-ray (MEX) imaging system for mammography
 
+---
 ## Education	 
 
 **Kyungbook National University Graduate School** / M.S.
@@ -72,7 +75,8 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
 > Mar. 1996 - Aug. 2002, South Korea    
 
 *Electronic and Electrical Engineering*
-  
+ 
+---
 ## Patent	 
 
 **US Grant**
@@ -188,6 +192,7 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
 * KR-20140055250-A 멀티 에너지 엑스선에 기초한 의료 영상을 합성 및 표시하는 의료 영상 처리 장치 및 방법
 * KR-20090120159-A 영상합성장치 및 영상합성방법
 
+---
 ## Paper	 
 
 **International**
@@ -208,4 +213,6 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
 
 * Kwon, Jae-Hyun, Son, Chang-Hwan, Park, Tae-Yong, Cho, Yang-Ho, and Ha, Yeong-Ho, "문자 영역을 강조하기 위한 적응적 오차 확산법(Adaptive error diffusion for text enhancement).” 2006년 1월 전자공학회 논문지 제43권 SP편 제1호.
 * Choe, Won-Hee, Lee, Kang-Eui, Kwon, Jae-Hyun, and Lee, Seong-Deok, "카메라에서의 광조도 대역 영상 구현(High dynamic range imaging on digital still camera).” 2010년 대한전자공학회 하계학술대회 제33권 1호. 
+
+---
   
