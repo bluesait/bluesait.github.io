@@ -2,7 +2,8 @@
 layout: archive
 permalink: /about/
 title: "Jaehyun Kwon"
-author_profile: true
+last_modified_at: 2019-10-02T15:46:43-04:00
+toc: true
 ---
 
 ## Skill
