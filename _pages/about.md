@@ -1,11 +1,11 @@
 ---
-layout: pages
+layout: archive
 permalink: /about/
 title: "Jaehyun Kwon"
 author_profile : true
 ---
 
-## Skill
+## Skills
 
 Digital Imaging Specialist / TRIZ Pro (3rd Level)    
 Successfully performed projects and developed technologies for high quality imaging - high dynamic range imaging method, multi-energy X-ray imaging system, image engine for digital radiography. Recently, developing a medical imaging technology for ultrasound.    
