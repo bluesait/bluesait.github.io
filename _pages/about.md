@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: pages
 permalink: /about/
 title: "Jaehyun Kwon"
 author_profile : true
