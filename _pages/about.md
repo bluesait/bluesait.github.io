@@ -1,17 +1,17 @@
 ---
-layout: archive
+layout: post
 permalink: /about/
 title: "Jaehyun Kwon"
 author_profile: true
 ---
 
-## Skills	 
+## Skill
 
 Digital Imaging Specialist / TRIZ Pro (3rd Level)    
 Successfully performed projects and developed technologies for high quality imaging - high dynamic range imaging method, multi-energy X-ray imaging system, image engine for digital radiography. Recently, developing a medical imaging technology for ultrasound.    
 I'm a creative engineer. With the various experiences, now I'm ready to create innovative technologies and products.
 
-## Experience	 
+## Experience
 
 **C-Lab - NEO Project** / Principal Engineer    
 > April. 2019 - PRESENT, Creativity & Innovation Center / Samsung Research (SR)        
