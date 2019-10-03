@@ -5,8 +5,8 @@ last_modified_at: 2019-10-03T15:00:00+09:00
 ---
 
 # Profile
-- Name: Jaehyun Kwon (Leo)
-- Digital Imaging Specialist / TRIZ Pro (3rd Level)    
+* Name: Jaehyun Kwon (Leo)
+* Digital Imaging Specialist *powered by Deep Learning* / TRIZ Pro (3rd Level)    
 
 # Skills
 Successfully performed projects and developed technologies for high quality imaging - high dynamic range imaging method, multi-energy X-ray imaging system, image engine for digital radiography. Recently, developing a medical imaging technology for ultrasound.    
@@ -14,24 +14,20 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
 
 # Experience
 
-### C-Lab - NEO Project
+### C-Lab, NEO Project - Fake image detector
 > April. 2019 - PRESENT, Creativity & Innovation Center, Samsung Research (SR) / **Principal Engineer**
 
-* NEO Project - Fake image detector
- - Fake image detector    
-   - Image & video forgery detection algorithm, face forensics
- - Deep learning based face swapping    
-   - Deepfake, FaceSwap, Face2Face  
+* Fake image detector    
+  - Image & video forgery detection algorithm, face forensics
+  - Deep learning based face swapping - Deepfake, FaceSwap, Face2Face  
 
 ### Health & Medical Equipment (HME)
 > Mar. 2014 - Mar. 2019, Samsung Digital City & Samsung Medison / **Principal Engineer**  
 
 * Medical Imaging & Deep Learning
- - Digital radiography ’Image Engine V3’    
-   - Architecture design, tone reproduction
- - Ultrasound imaging chain (B-mode), ‘HQ-Vision’, ‘ShadowHDR’    
-   - Deconvolution for high-end ultrasound systems, shadow suppression
- - Image quality optimization, domain adaptation using deep learning  
+  - Digital radiography ’Image Engine V3’ - Architecture design, tone reproduction
+  - Ultrasound imaging chain (B-mode), ‘HQ-Vision’, ‘ShadowHDR’ - Deconvolution for high-end ultrasound systems, shadow suppression
+  - Image quality optimization, domain adaptation using deep learning  
 
 ### TRIZ Pro
 > Mar. 2016 - Dec. 2016, Samsung Value Innovation Program (VIP) Center    
@@ -51,11 +47,11 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
 > Jan. 2005 - Mar. 2014, SAIT / **Research Staff**
 
 * Digital Image Processing
- - Digital camera image processing, ISP Algorithm, CFA design
- - Multi-spectral imaging, RGB & IR fusion, noise reduction
- - High dynamic range (HDR) imaging: Capturing & blending
+  - Digital camera image processing, ISP Algorithm, CFA design
+  - Multi-spectral imaging, RGB & IR fusion, noise reduction
+  - High dynamic range (HDR) imaging: Capturing & blending
 * Medical Imaging
- - Multi-energy X-ray (MEX) imaging system for mammography  
+  - Multi-energy X-ray (MEX) imaging system for mammography  
  
 # Education	 
 
@@ -63,9 +59,9 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
 > Mar. 2003 - Feb. 2005, South Korea    
 
 *Electronics*    
-- Color & Imaging Laboratory / Prof. Young-Ho Ha
-* Digital image processing (DIP), color management system (CMS), digital halftoning
-* Color science and human vision
+* Color & Imaging Laboratory / Prof. Young-Ho Ha
+  - Digital image processing (DIP), color management system (CMS), digital halftoning
+  - Color science and human vision
 
 ### Kyungbook National University / B.S.
 > Mar. 1996 - Aug. 2002, South Korea  
