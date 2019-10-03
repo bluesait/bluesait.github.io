@@ -1,13 +1,15 @@
 # main links
 main:
-  - title: "Archive" # "Quick-Start Guide"
-    url: /year-archive/ # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Archive"
+    url: /year-archive/
   - title: "Category"
     url: /categories/
   - title: "Tag"
     url: /tags/
   - title: "About"
-    url: /about/ # https://mmistakes.github.io/minimal-mistakes/about/
+    url: /about/
+  - title: "Home"
+    url: /
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
