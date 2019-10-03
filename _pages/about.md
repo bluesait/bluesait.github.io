@@ -1,22 +1,19 @@
 ---
-layout: archive
 permalink: /about/
-title: "Jaehyun Kwon"
-author_profile : true
-toc: true
+title: "About"
 last_modified_at: 2019-10-03T15:00:00+09:00
 ---
 
----    
+# Profile
+Name: Jaehyun Kwon (Leo)
+Digital Imaging Specialist / TRIZ Pro (3rd Level)    
 
 # Skills
-Digital Imaging Specialist / TRIZ Pro (3rd Level)    
 Successfully performed projects and developed technologies for high quality imaging - high dynamic range imaging method, multi-energy X-ray imaging system, image engine for digital radiography. Recently, developing a medical imaging technology for ultrasound.    
 I'm a creative engineer. With the various experiences, now I'm ready to create innovative technologies and products.  
 
----    
-
 # Experience
+
 ### C-Lab - NEO Project
 > April. 2019 - PRESENT, Creativity & Innovation Center, Samsung Research (SR) / **Principal Engineer**
 
@@ -59,10 +56,9 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
  - High dynamic range (HDR) imaging: Capturing & blending
 * Medical Imaging
  - Multi-energy X-ray (MEX) imaging system for mammography  
-
----     
-
+ 
 # Education	 
+
 ### Kyungbook National University Graduate School / M.S.
 > Mar. 2003 - Feb. 2005, South Korea    
 
@@ -76,9 +72,9 @@ Color & Imaging Laboratory, Prof. Young-Ho Ha
 
 *Electronic and Electrical Engineering*
 
----     
 
 # Patents	 
+
 ### US Grant
 * US-9895123-B2	Apparatus for generating X-ray image and method thereof 
 * US-9839405-B2	X-ray imaging apparatus and control method thereof 
@@ -183,9 +179,8 @@ Color & Imaging Laboratory, Prof. Young-Ho Ha
 * KR-20140055250-A 멀티 에너지 엑스선에 기초한 의료 영상을 합성 및 표시하는 의료 영상 처리 장치 및 방법
 * KR-20090120159-A 영상합성장치 및 영상합성방법    
 
----    
-
 # Papers	 
+
 ### International
 * **Kwon, Jae-Hyun**, Park, Tae-Yong, Cho, Yang-Ho, Lee, Cheol-Hee, and Ha, Yeong-Ho, "Photo-text segmentation in complex color document." *The 5th Japan-Korean Joint Symposium on Imaging Materials and Technologies, p. 44-47*, 2004.
 * **Kwon, Jae-Hyun**, Park, Tae-Yong, Kim, Yun-Tae, Cho, Yang-Ho, and Ha, Yeong-Ho, "Efficient text segmentation and adaptive color error diffusion for text enhancement." *Color Imaging X: Processing, Hardcopy, and Applications, Vol. 5667, International Society for Optics and Photonics*, 2005.
