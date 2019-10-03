@@ -20,18 +20,18 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
 
 * NEO Project - Fake image detector
  - Fake image detector    
-    : Image & video forgery detection algorithm, face forensics
+   - Image & video forgery detection algorithm, face forensics
  - Deep learning based face swapping    
-    : Deepfake, FaceSwap, Face2Face  
+   - Deepfake, FaceSwap, Face2Face  
 
 ### Health & Medical Equipment (HME)
 > Mar. 2014 - Mar. 2019, Samsung Digital City & Samsung Medison / **Principal Engineer**  
 
 * Medical Imaging & Deep Learning
  - Digital radiography ’Image Engine V3’    
-    : Architecture design, tone reproduction
+   - Architecture design, tone reproduction
  - Ultrasound imaging chain (B-mode), ‘HQ-Vision’, ‘ShadowHDR’    
-    : Deconvolution for high-end ultrasound systems, shadow suppression
+   - Deconvolution for high-end ultrasound systems, shadow suppression
  - Image quality optimization, domain adaptation using deep learning  
 
 ### TRIZ Pro
