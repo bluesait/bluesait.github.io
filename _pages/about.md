@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: posts
 permalink: /about/
 title: "Jaehyun Kwon"
 author_profile : true
@@ -7,13 +7,13 @@ toc: true
 last_modified_at: 2019-10-03T15:00:00+09:00
 ---
 
-## Skills
+# Skills
 ---
 Digital Imaging Specialist / TRIZ Pro (3rd Level)    
 Successfully performed projects and developed technologies for high quality imaging - high dynamic range imaging method, multi-energy X-ray imaging system, image engine for digital radiography. Recently, developing a medical imaging technology for ultrasound.    
 I'm a creative engineer. With the various experiences, now I'm ready to create innovative technologies and products.  
 
-## Experience
+# Experience
 ---
 ### C-Lab - NEO Project
 > April. 2019 - PRESENT, Creativity & Innovation Center, Samsung Research (SR) / **Principal Engineer**
@@ -58,22 +58,22 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
 * Medical Imaging
  - Multi-energy X-ray (MEX) imaging system for mammography  
 
-## Education	 
+# Education	 
 ---
 ### Kyungbook National University Graduate School / M.S.
 > Mar. 2003 - Feb. 2005, South Korea    
 
 *Electronics*    
-* Color & Imaging Laboratory, Prof. Young-Ho Ha
- - Digital image processing (DIP), color management system (CMS), digital halftoning
- - Color science and human vision
+Color & Imaging Laboratory, Prof. Young-Ho Ha
+* Digital image processing (DIP), color management system (CMS), digital halftoning
+* Color science and human vision
 
 ### Kyungbook National University / B.S.
 > Mar. 1996 - Aug. 2002, South Korea  
 
 *Electronic and Electrical Engineering*
  
-## Patent	 
+# Patents	 
 ---
 ### US Grant
 * US-9895123-B2	Apparatus for generating X-ray image and method thereof 
@@ -179,23 +179,23 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
 * KR-20140055250-A 멀티 에너지 엑스선에 기초한 의료 영상을 합성 및 표시하는 의료 영상 처리 장치 및 방법
 * KR-20090120159-A 영상합성장치 및 영상합성방법    
 
-## Paper	 
+# Papers	 
 ---
 ### International
-* Kwon, Jae-Hyun, Park, Tae-Yong, Cho, Yang-Ho, Lee, Cheol-Hee, and Ha, Yeong-Ho, "Photo-text segmentation in complex color document." The 5th Japan-Korean Joint Symposium on Imaging Materials and Technologies, p. 44-47, 2004.
-* Kwon, Jae-Hyun, Park, Tae-Yong, Kim, Yun-Tae, Cho, Yang-Ho, and Ha, Yeong-Ho, "Efficient text segmentation and adaptive color error diffusion for text enhancement." Color Imaging X: Processing, Hardcopy, and Applications, Vol. 5667, International Society for Optics and Photonics, 2005.
-* Kwon, Jae-Hyun, Park, Tae-Yong, Son, Chang-Hwan, and Ha, Yeong-Ho, "Text enhancement error diffusion with homogeneous halftone patterns in complex document." ITC-CSCC: International Technical Conference on Circuits Systems, Computers and Communications, 2005.
-* Kwon, Jae-Hyun, Son, Chang-Hwan, Cho, Yang-Ho, and Ha, Yeong-Ho, "Text-enhanced error diffusion using multiplicative parameters and error scaling factor." Journal of Imaging Science and Technology (JIST), 50.5, p. 437-447, 2006. 
-* Oh, Hyun-Hwa, Park, Sung-Chan, Kwon, Jae-Hyun, Choe, Won-Hee, and Lee, Seong-Deok, “Motion artifact-free HDR imaging under dynamic environments.” SAMSUNG Best Paper Award, 2009.
-* Kwon, Jae-Hyun, Choe, Won-Hee, Lee, Kang-Eui, and Lee, Seong-Deok, "Exposure-adaptive color-image enhancement." Digital Photography V, Vol. 7250, International Society for Optics and Photonics, 2009.
-* Lee, Kang-Eui, Choe, Won-Hee, Kwon, Jae-Hyun, and Lee, Seong-Deok, "Locally adaptive high range image reproduction inspired by human visual system." Color Imaging XIV: Displaying, Processing, Hardcopy, and Applications, Vol. 7241, International Society for Optics and Photonics, 2009.
-* Yoo, Young-Jin, Choe, Won-Hee, Kwon, Jae-Hyun, Park, Sung-Chan, Lee, Seong-Deok, and Kim, Chang-Yong, "Low-light imaging method with visible-band and wide-band image pair." 16th IEEE International Conference on Image Processing (ICIP), 2009.
-* Oh, Hyun-Hwa, Sung, Young-Hun, Kim, Sung-Su, Kwon, Jae-Hyun, Lee, Seong-Deok, and Kim, Chang-Yong, “High contrast soft tissue imaging based on multi-energy x-ray.” Medical Imaging 2011: Physics of Medical Imaging, Proceedings Vol. 7961, Society of Photo-Optical Instrumentation Engineers (SPIE), 2011.
-* Kwon, Jae-Hyun, Oh, Hyun-Hwa, Kim, Sung-Su, Sung, Young-Hun, and Chung, Myung-Jin, "Mammogram contrast enhancement based on X-ray attenuation characteristics." International Forum on Medical Imaging in Asia (IFMIA), 2011.
-* Kwon, Jae-Hyun, Oh, Hyun-Hwa, Kim, Sung-Su, Sung, Young-Hun, and Lee, Seong-Deok, “Mammogram enhancement using multi-energy x-ray.” Medical Imaging 2012: Physics of Medical Imaging, Proceedings Vol. 8313, Society of Photo-Optical Instrumentation Engineers (SPIE), 2012.
+* **Kwon, Jae-Hyun**, Park, Tae-Yong, Cho, Yang-Ho, Lee, Cheol-Hee, and Ha, Yeong-Ho, "Photo-text segmentation in complex color document." The 5th Japan-Korean Joint Symposium on Imaging Materials and Technologies, p. 44-47, 2004.
+* **Kwon, Jae-Hyun**, Park, Tae-Yong, Kim, Yun-Tae, Cho, Yang-Ho, and Ha, Yeong-Ho, "Efficient text segmentation and adaptive color error diffusion for text enhancement." Color Imaging X: Processing, Hardcopy, and Applications, Vol. 5667, International Society for Optics and Photonics, 2005.
+* **Kwon, Jae-Hyun**, Park, Tae-Yong, Son, Chang-Hwan, and Ha, Yeong-Ho, "Text enhancement error diffusion with homogeneous halftone patterns in complex document." ITC-CSCC: International Technical Conference on Circuits Systems, Computers and Communications, 2005.
+* **Kwon, Jae-Hyun**, Son, Chang-Hwan, Cho, Yang-Ho, and Ha, Yeong-Ho, "Text-enhanced error diffusion using multiplicative parameters and error scaling factor." Journal of Imaging Science and Technology (JIST), 50.5, p. 437-447, 2006. 
+* Oh, Hyun-Hwa, Park, Sung-Chan, **Kwon, Jae-Hyun**, Choe, Won-Hee, and Lee, Seong-Deok, “Motion artifact-free HDR imaging under dynamic environments.” SAMSUNG Best Paper Award, 2009.
+* **Kwon, Jae-Hyun**, Choe, Won-Hee, Lee, Kang-Eui, and Lee, Seong-Deok, "Exposure-adaptive color-image enhancement." Digital Photography V, Vol. 7250, International Society for Optics and Photonics, 2009.
+* Lee, Kang-Eui, Choe, Won-Hee, **Kwon, Jae-Hyun**, and Lee, Seong-Deok, "Locally adaptive high range image reproduction inspired by human visual system." Color Imaging XIV: Displaying, Processing, Hardcopy, and Applications, Vol. 7241, International Society for Optics and Photonics, 2009.
+* Yoo, Young-Jin, Choe, Won-Hee, **Kwon, Jae-Hyun**, Park, Sung-Chan, Lee, Seong-Deok, and Kim, Chang-Yong, "Low-light imaging method with visible-band and wide-band image pair." 16th IEEE International Conference on Image Processing (ICIP), 2009.
+* Oh, Hyun-Hwa, Sung, Young-Hun, Kim, Sung-Su, **Kwon, Jae-Hyun**, Lee, Seong-Deok, and Kim, Chang-Yong, “High contrast soft tissue imaging based on multi-energy x-ray.” Medical Imaging 2011: Physics of Medical Imaging, Proceedings Vol. 7961, Society of Photo-Optical Instrumentation Engineers (SPIE), 2011.
+* **Kwon, Jae-Hyun**, Oh, Hyun-Hwa, Kim, Sung-Su, Sung, Young-Hun, and Chung, Myung-Jin, "Mammogram contrast enhancement based on X-ray attenuation characteristics." International Forum on Medical Imaging in Asia (IFMIA), 2011.
+* **Kwon, Jae-Hyun**, Oh, Hyun-Hwa, Kim, Sung-Su, Sung, Young-Hun, and Lee, Seong-Deok, “Mammogram enhancement using multi-energy x-ray.” Medical Imaging 2012: Physics of Medical Imaging, Proceedings Vol. 8313, Society of Photo-Optical Instrumentation Engineers (SPIE), 2012.
 
 ### Domestic
-* Kwon, Jae-Hyun, Son, Chang-Hwan, Park, Tae-Yong, Cho, Yang-Ho, and Ha, Yeong-Ho, "문자 영역을 강조하기 위한 적응적 오차 확산법(Adaptive error diffusion for text enhancement).” 2006년 1월 전자공학회 논문지 제43권 SP편 제1호.
-* Choe, Won-Hee, Lee, Kang-Eui, Kwon, Jae-Hyun, and Lee, Seong-Deok, "카메라에서의 광조도 대역 영상 구현(High dynamic range imaging on digital still camera).” 2010년 대한전자공학회 하계학술대회 제33권 1호.
+* **Kwon, Jae-Hyun**, Son, Chang-Hwan, Park, Tae-Yong, Cho, Yang-Ho, and Ha, Yeong-Ho, "문자 영역을 강조하기 위한 적응적 오차 확산법(Adaptive error diffusion for text enhancement).” 2006년 1월 전자공학회 논문지 제43권 SP편 제1호.
+* Choe, Won-Hee, Lee, Kang-Eui, **Kwon, Jae-Hyun**, and Lee, Seong-Deok, "카메라에서의 광조도 대역 영상 구현(High dynamic range imaging on digital still camera).” 2010년 대한전자공학회 하계학술대회 제33권 1호.
 ---
   
