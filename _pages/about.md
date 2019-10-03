@@ -7,6 +7,10 @@ last_modified_at: 2019-10-03T15:00:00+09:00
 # Profile
 * Name: Jaehyun Kwon (Leo)
 * Digital Imaging Specialist *powered by Deep Learning* / TRIZ Pro (3rd Level)    
+* Samsung SNU Cooperation R&D Center    
+Creativity & Innovation Center / Samsung Research (SR)    
+Samsung Electronics    
+1, Gwanak-ro, Gwanak-gu, Seoul 08826, Korea
 
 # Skills
 Successfully performed projects and developed technologies for high quality imaging - high dynamic range imaging method, multi-energy X-ray imaging system, image engine for digital radiography. Recently, developing a medical imaging technology for ultrasound.    
