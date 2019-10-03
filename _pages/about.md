@@ -3,7 +3,8 @@ layout: archive
 permalink: /about/
 title: "Jaehyun Kwon"
 author_profile : true
-last_modified_at: 2019-10-03T12:00:00+09:00
+toc: true
+last_modified_at: 2019-10-03T15:00:00+09:00
 ---
 
 ## Skills
@@ -14,55 +15,62 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
 
 ## Experience
 ---
-### C-Lab - NEO Project / Principal Engineer    
-> April. 2019 - PRESENT, Creativity & Innovation Center / Samsung Research (SR)        
+### C-Lab - NEO Project
+> April. 2019 - PRESENT, Creativity & Innovation Center, Samsung Research (SR) / **Principal Engineer**
+
 * NEO Project - Fake image detector
  - Fake image detector    
     : Image & video forgery detection algorithm, face forensics
  - Deep learning based face swapping    
     : Deepfake, FaceSwap, Face2Face  
 
-### Health & Medical Equipment (HME) / Principal Engineer
-> Mar. 2014 - Mar. 2019, Samsung Digital City & Samsung Medison  
+### Health & Medical Equipment (HME)
+> Mar. 2014 - Mar. 2019, Samsung Digital City & Samsung Medison / **Principal Engineer**  
+
 * Medical Imaging & Deep Learning
  - Digital radiography ’Image Engine V3’    
     : Architecture design, tone reproduction
  - Ultrasound imaging chain (B-mode), ‘HQ-Vision’, ‘ShadowHDR’    
     : Deconvolution for high-end ultrasound systems, shadow suppression
-  - Image quality optimization, domain adaptation using deep learning  
+ - Image quality optimization, domain adaptation using deep learning  
 
 ### TRIZ Pro
 > Mar. 2016 - Dec. 2016, Samsung Value Innovation Program (VIP) Center    
+
 * TRIZ includes a practical methodology for generating innovative solutions for problem solving, TRIZ 3rd level certification
 * Experiences in lecturing and consulting projects of various technology fields for ideation and design  
 
 ### Samsung Regional Specialist - Germany
 > Mar. 2012 - Feb. 2013, Samsung Educational Research Center    
+
 * Deep understanding about European culture and communication
 * Medical technology research - conference, institute, university, and company
 * Hidden champions in Germany, speak German (B23)
 * Samsung Global Forum member  
 
-### Samsung Advanced Institute of Technology (SAIT) / Research Staff
-> Jan. 2005 - Mar. 2014, SAIT    
+### Samsung Advanced Institute of Technology (SAIT)
+> Jan. 2005 - Mar. 2014, SAIT / **Research Staff**
+
 * Digital Image Processing
-    - Digital camera image processing, ISP Algorithm, CFA design
-    - Multi-spectral imaging, RGB & IR fusion, noise reduction
-    - High dynamic range (HDR) imaging: Capturing & blending
+ - Digital camera image processing, ISP Algorithm, CFA design
+ - Multi-spectral imaging, RGB & IR fusion, noise reduction
+ - High dynamic range (HDR) imaging: Capturing & blending
 * Medical Imaging
-    - Multi-energy X-ray (MEX) imaging system for mammography  
+ - Multi-energy X-ray (MEX) imaging system for mammography  
 
 ## Education	 
 ---
 ### Kyungbook National University Graduate School / M.S.
 > Mar. 2003 - Feb. 2005, South Korea    
+
 *Electronics*    
 * Color & Imaging Laboratory, Prof. Young-Ho Ha
-    - Digital image processing (DIP), color management system (CMS), digital halftoning
-    - Color science and human vision
+ - Digital image processing (DIP), color management system (CMS), digital halftoning
+ - Color science and human vision
 
 ### Kyungbook National University / B.S.
-> Mar. 1996 - Aug. 2002, South Korea    
+> Mar. 1996 - Aug. 2002, South Korea  
+
 *Electronic and Electrical Engineering*
  
 ## Patent	 
