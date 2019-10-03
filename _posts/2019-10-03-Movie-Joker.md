@@ -1,8 +1,8 @@
 ---
 title: Joker
 joker_poster:
-  - url: /assets/images/joker.png
-    image_path: /assets/images/joker.png
+  - url: /assets/images/joker.jpg
+    image_path: /assets/images/joker.jpg
     alt: "Joker"
 categories:
  - Movie
