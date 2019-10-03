@@ -5,8 +5,8 @@ last_modified_at: 2019-10-03T15:00:00+09:00
 ---
 
 # Profile
-Name: Jaehyun Kwon (Leo)
-Digital Imaging Specialist / TRIZ Pro (3rd Level)    
+- Name: Jaehyun Kwon (Leo)
+- Digital Imaging Specialist / TRIZ Pro (3rd Level)    
 
 # Skills
 Successfully performed projects and developed technologies for high quality imaging - high dynamic range imaging method, multi-energy X-ray imaging system, image engine for digital radiography. Recently, developing a medical imaging technology for ultrasound.    
@@ -63,7 +63,7 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
 > Mar. 2003 - Feb. 2005, South Korea    
 
 *Electronics*    
-Color & Imaging Laboratory, Prof. Young-Ho Ha
+- Color & Imaging Laboratory / Prof. Young-Ho Ha
 * Digital image processing (DIP), color management system (CMS), digital halftoning
 * Color science and human vision
 
