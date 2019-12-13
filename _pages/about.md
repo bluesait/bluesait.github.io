@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 last_modified_at: 2019-10-03T15:00:00+09:00
+
 ---
 
 # Profile
@@ -12,9 +13,13 @@ Creativity & Innovation Center / Samsung Research (SR)
 Samsung Electronics    
 1, Gwanak-ro, Gwanak-gu, Seoul 08826, Korea
 
+---
+
 # Skills
 Successfully performed projects and developed technologies for high quality imaging - high dynamic range imaging method, multi-energy X-ray imaging system, image engine for digital radiography. Recently, developing a medical imaging technology for ultrasound.    
 I'm a creative engineer. With the various experiences, now I'm ready to create innovative technologies and products.  
+
+---
 
 # Experience
 
@@ -57,6 +62,8 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
 * Medical Imaging
   - Multi-energy X-ray (MEX) imaging system for mammography  
  
+---
+
 # Education	 
 
 ### Kyungbook National University Graduate School / M.S.
@@ -72,6 +79,7 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
 
 *Electronic and Electrical Engineering*
 
+---
 
 # Patents	 
 
@@ -178,6 +186,8 @@ I'm a creative engineer. With the various experiences, now I'm ready to create i
 * KR-20150041221-A 디스플레이 장치 및 이를 이용한 영상표시방법
 * KR-20140055250-A 멀티 에너지 엑스선에 기초한 의료 영상을 합성 및 표시하는 의료 영상 처리 장치 및 방법
 * KR-20090120159-A 영상합성장치 및 영상합성방법    
+
+---
 
 # Papers	 
 
