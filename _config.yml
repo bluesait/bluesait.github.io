@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+#remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin  : "dirt" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Jaehyun Kwon"
   avatar           : "/assets/images/leo-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Digital Imaging Specialist Powerd by Deep Learning"
+  bio              : "Digital Imaging Specialist powerd by Deep Learning"
   location         : "Seoul, Korea"
   email            : # jaehyun77@gmail.com
   links:
