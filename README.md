@@ -6,3 +6,6 @@
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/mmistakes)
 
 Leo's Blog
+
+
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluesait)](https://github.com/anuraghazra/github-readme-stats)
