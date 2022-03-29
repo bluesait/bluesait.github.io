@@ -9,3 +9,4 @@ Leo's Blog
 
 
 [![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluesait)](https://github.com/anuraghazra/github-readme-stats)
+[![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluesait&show_icons=true&theme=dracula)
